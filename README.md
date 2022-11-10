@@ -1,7 +1,14 @@
 # Add To cart with Redux Thunk and Backend API
 
 # Perfect-Application
-# Perfect-Application
+## Features
+
+  - Navigation
+  - Drawer Navigation
+  - Redux-Toolkit -> Thunk
+  - Backend API
+  - Reusibility UI Components
+  - Project Sturettured
 
 
 <p align="center">
