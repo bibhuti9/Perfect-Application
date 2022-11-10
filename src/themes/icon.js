@@ -1,0 +1,17 @@
+export const cart = require('../assets/icon/cart.png');
+export const minus = require('../assets/icon/minus.png');
+export const plus = require('../assets/icon/plus.png');
+export const promote = require('../assets/icon/promotion.png');
+export const question = require('../assets/icon/question.png');
+export const rightArrow = require('../assets/icon/rightArrow.png');
+export const repeate = require('../assets/icon/repeat.png');
+export const leftArrow = require('../assets/icon/leftArrow2.png');
+export const search = require('../assets/icon/search.png');
+export const userProfile = require('../assets/icon/profile-pic.png');
+export const menu = require('../assets/icon/hamburger.png');
+export const star = require('../assets/icon/favourite.png');
+export const spinner = require('../assets/spinner.json');
+export const sucessfully = require('../assets/loader.json');
+export const rountRightArrow = require('../assets/icon/right-arrow.png');
+export const call = require('../assets/icon/telephone.png');
+export const chat = require('../assets/icon/chat.png');
