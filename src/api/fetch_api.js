@@ -31,6 +31,7 @@ export async function deleteAddToCart(_id) {
 }
 
 export async function addToCart(addData) {
+  console.log(addData);
   return axios
     .post(`${BACKEND_URI}/restuarent/createAddToCart`, addData)
     .then(function (response) {
